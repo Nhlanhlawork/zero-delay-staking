@@ -2,14 +2,7 @@
 
 > Zero-delay unstaking powered by EIP-7702 smart accounts
 
-[![Built for BSC](https://img.shields.io/badge/Built%20for-BSC%20Hackathon-yellow)](https://bscscan.com)
-[![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue)](https://soliditylang.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-**Live Demo:** [Watch Video](YOUR_VIDEO_LINK)  
-**GitHub:** [View Code](https://github.com/YOUR_USERNAME/instant-unstake-7702)
-
----
 
 ## 🎯 The Problem
 
@@ -85,7 +78,7 @@ Even after your lock expires, tokens remain stuck until you:
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/instant-unstake-7702.git
+git clone https://github.com/Nhlanhlawork/zero-delay-staking
 cd instant-unstake-7702
 
 # Install dependencies
@@ -321,17 +314,7 @@ npx hardhat run scripts/test-local.js --network hardhat
 
 MIT License - see [LICENSE](LICENSE) file for details.
 
----
 
-## 👥 Team
-
-Built by [Your Name] for BSC Hackathon 2025
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Email: your.email@example.com
-
----
 
 ## 🙏 Acknowledgments
 
@@ -340,16 +323,7 @@ Built by [Your Name] for BSC Hackathon 2025
 - Hardhat team for development tools
 - EIP-7702 specification authors
 
----
 
-## 🔗 Links
-
-- **Demo Video:** [Watch on YouTube](YOUR_LINK)
-- **Live App:** [Try it here](YOUR_LINK)
-- **Documentation:** [Read the docs](YOUR_LINK)
-- **DevPost:** [View submission](YOUR_LINK)
-
----
 
 **Built with ⚡ for BSC Hackathon 2025**
 ```
