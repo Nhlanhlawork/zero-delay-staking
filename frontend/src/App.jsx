@@ -377,7 +377,7 @@ const TOKEN_ADDRESS = "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707"
         )}
 
         <footer>
-          <p>Built for BSC Hackathon 2025</p>
+      
           <div className="tech-stack">
             <span>Solidity</span>
             <span>•</span>

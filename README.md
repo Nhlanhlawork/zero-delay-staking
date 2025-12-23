@@ -316,13 +316,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 
 
-## 🙏 Acknowledgments
-
-- BSC Team for the hackathon
-- OpenZeppelin for secure contract libraries
-- Hardhat team for development tools
-- EIP-7702 specification authors
-
 
 
 **Built with ⚡ for BSC Hackathon 2025**
